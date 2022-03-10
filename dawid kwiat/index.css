@@ -1,0 +1,19 @@
+body{
+background-color: #b922a0;
+}
+div.php{
+margin:0;
+position: Right;
+top:50%;
+left:50%;
+right:50%;
+}
+#srodek{
+margin-top:10px;
+width:700px;
+margin-left: auto ;
+margin-right: auto ;
+border-radius:500px;
+background-color:#40a7cf;
+padding:30px;
+}
